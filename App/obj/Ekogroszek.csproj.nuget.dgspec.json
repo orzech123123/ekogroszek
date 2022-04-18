@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ekogroszek\\App\\Ekogroszek.csproj": {}
+    "C:\\Projects\\ekogroszek-git\\App\\Ekogroszek.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ekogroszek\\App\\Ekogroszek.csproj": {
+    "C:\\Projects\\ekogroszek-git\\App\\Ekogroszek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ekogroszek\\App\\Ekogroszek.csproj",
+        "projectUniqueName": "C:\\Projects\\ekogroszek-git\\App\\Ekogroszek.csproj",
         "projectName": "Ekogroszek",
-        "projectPath": "C:\\Projects\\ekogroszek\\App\\Ekogroszek.csproj",
+        "projectPath": "C:\\Projects\\ekogroszek-git\\App\\Ekogroszek.csproj",
         "packagesPath": "C:\\Users\\Michal Orzechowski\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ekogroszek\\App\\obj\\",
+        "outputPath": "C:\\Projects\\ekogroszek-git\\App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[107.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

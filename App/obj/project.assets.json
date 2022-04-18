@@ -1,11 +1,42 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "RestSharp/107.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/RestSharp.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RestSharp/107.3.0": {
+      "sha512": "qu+A+VAnVLX3OeWVNm11UJz0aVErqSfYqIiOUbJM9x98uLymCOoL/oXRAjMb6XHra27WXxHmzy9EKEOKXWR6Pw==",
+      "type": "package",
+      "path": "restsharp/107.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net5.0/RestSharp.dll",
+        "lib/net5.0/RestSharp.xml",
+        "lib/net6.0/RestSharp.dll",
+        "lib/net6.0/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.107.3.0.nupkg.sha512",
+        "restsharp.nuspec",
+        "restsharp.png"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "RestSharp >= 107.3.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Michal Orzechowski\\.nuget\\packages\\": {},
@@ -14,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\ekogroszek\\App\\Ekogroszek.csproj",
+      "projectUniqueName": "C:\\Projects\\ekogroszek-git\\App\\Ekogroszek.csproj",
       "projectName": "Ekogroszek",
-      "projectPath": "C:\\Projects\\ekogroszek\\App\\Ekogroszek.csproj",
+      "projectPath": "C:\\Projects\\ekogroszek-git\\App\\Ekogroszek.csproj",
       "packagesPath": "C:\\Users\\Michal Orzechowski\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\ekogroszek\\App\\obj\\",
+      "outputPath": "C:\\Projects\\ekogroszek-git\\App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,6 +81,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "RestSharp": {
+            "target": "Package",
+            "version": "[107.3.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
