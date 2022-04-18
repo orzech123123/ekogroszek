@@ -1,0 +1,15 @@
+C:\Projects\ekogroszek\App\bin\Debug\net6.0\Ekogroszek.exe
+C:\Projects\ekogroszek\App\bin\Debug\net6.0\Ekogroszek.deps.json
+C:\Projects\ekogroszek\App\bin\Debug\net6.0\Ekogroszek.runtimeconfig.json
+C:\Projects\ekogroszek\App\bin\Debug\net6.0\Ekogroszek.dll
+C:\Projects\ekogroszek\App\bin\Debug\net6.0\Ekogroszek.pdb
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\Ekogroszek.csproj.AssemblyReference.cache
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\Ekogroszek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\Ekogroszek.AssemblyInfoInputs.cache
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\Ekogroszek.AssemblyInfo.cs
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\Ekogroszek.csproj.CoreCompileInputs.cache
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\Ekogroszek.dll
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\refint\Ekogroszek.dll
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\Ekogroszek.pdb
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\Ekogroszek.genruntimeconfig.cache
+C:\Projects\ekogroszek\App\obj\Debug\net6.0\ref\Ekogroszek.dll
