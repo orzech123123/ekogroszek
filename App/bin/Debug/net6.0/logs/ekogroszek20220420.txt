@@ -50,3 +50,94 @@ System.Net.Http.HttpRequestException: An error occurred while sending the reques
 2022-04-20 00:00:51.401 +02:00 [INF] {"count":1,"list":[{"id":"625F31133463353B23EDDCA7","points":0.32,"number":"48509980548","date_sent":1650405651,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
 2022-04-20 00:00:51.403 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
 2022-04-20 00:00:52.073 +02:00 [INF] {"count":1,"list":[{"id":"625F3114346335594091D7C8","points":0.32,"number":"48509338549","date_sent":1650405652,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-20 00:09:17.906 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:09:18.497 +02:00 [INF] Getting available products...
+2022-04-20 00:09:18.509 +02:00 [WRN] No available products.
+2022-04-20 00:10:18.522 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:10:18.793 +02:00 [INF] Getting available products...
+2022-04-20 00:10:18.800 +02:00 [WRN] No available products.
+2022-04-20 00:37:38.291 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:37:39.094 +02:00 [INF] Getting available products...
+2022-04-20 00:37:39.106 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:37:39.107 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg, /produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg, /produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg, /produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg, /produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg, /produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem, /produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem, /produkty/13/6/pieklorz-ekogroszek-1000-kg-luz, /produkty/14/1/karlik-ekogroszek-1000-kg-luz, /produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz, /produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz, /produkty/39/1/greenpal-ekomial-1000-kg-luz, /produkty/15/12/kostka-marcel-1000-kg-luz, /produkty/16/12/orzech-marcel-1000-kg-luz, /produkty/17/12/groszek-marcel-1000-kg-luz, /produkty/18/13/kostka-ziemowit-1000-kg-luz, /produkty/19/13/orzech-i-ziemowit-1000-kg-luz, /produkty/22/14/kostka-piast-1000-kg-luz, /produkty/23/14/orzech-i-piast-1000-kg-luz, /produkty/26/11/kostka-staszic-wujek-1000-kg-luz, /produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz, /produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz, /produkty/29/11/groszek-staszic-wujek-1000-kg-luz, /produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz, /produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz, /produkty/33/15/kostka-jankowice-1000-kg-luz, /produkty/34/15/orzech-jankowice-1000-kg-luz, /produkty/35/16/orzech-rydultowy-1000-kg-luz, /produkty/37/8/orzech-sosnica-1000-kg-luz, /produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:37:39.110 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:37:39.514 +02:00 [INF] {"count":1,"list":[{"id":"625F39B334633524DBF0D2C9","points":0.16,"number":"48509980548","date_sent":1650407859,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 00:37:39.515 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:37:39.824 +02:00 [INF] {"count":1,"list":[{"id":"625F39B33463355FBA57C1E8","points":0.16,"number":"48509338549","date_sent":1650407859,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 00:38:29.209 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:38:30.160 +02:00 [INF] Getting available products...
+2022-04-20 00:38:30.175 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:38:30.177 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:38:30.181 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:38:30.509 +02:00 [INF] {"count":1,"list":[{"id":"625F39E634633543E442CCE9","points":0.16,"number":"48509980548","date_sent":1650407910,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 00:38:30.513 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:38:30.817 +02:00 [INF] {"count":1,"list":[{"id":"625F39E6346335459533FFB2","points":0.16,"number":"48509338549","date_sent":1650407910,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 00:39:30.854 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:39:47.627 +02:00 [INF] Getting available products...
+2022-04-20 00:39:47.635 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:39:47.637 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:39:47.641 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:39:47.885 +02:00 [INF] {"count":1,"list":[{"id":"625F3A3334633538A394C5CD","points":0.16,"number":"48509980548","date_sent":1650407987,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 00:39:47.899 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:39:48.128 +02:00 [INF] {"count":1,"list":[{"id":"625F3A34346335366AEA0940","points":0.16,"number":"48509338549","date_sent":1650407988,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 00:40:07.218 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:40:08.081 +02:00 [INF] Getting available products...
+2022-04-20 00:40:08.094 +02:00 [WRN] No available products.

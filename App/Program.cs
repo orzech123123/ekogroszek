@@ -53,7 +53,7 @@ async Task MainLoopAsync()
 
             var availableProductsUrls = GetAvailableProductsUrls(availableProductsNodes);
 
-            availableProductsUrls = availableProductsUrls.Where(url => url.Contains("karolin")); //TODO
+            //availableProductsUrls = availableProductsUrls.Where(url => url.Contains("karolin")); //TODO
 
             if (!availableProductsUrls.Any())
             {
@@ -64,13 +64,12 @@ async Task MainLoopAsync()
 
             var finalUrls = availableProductsUrls.Select(url => $"{url}"); //TODO {pggShopBaseUrl}/
 
-            var message = $"Pojawił się niezerowy stan w sklepie: {string.Join(", ", finalUrls)}";
-
             logger.Information("<<< ACTIVATING >>>");
+            logger.Information($"{string.Join(Environment.NewLine, finalUrls)}");
 
             foreach (var number in allNumbers)
             {
-                var response = await SendSmsAsync(number, message);
+                var response = await SendSmsAsync(number, "Pojawil sie niezerowy stan w sklepie!");
                 logger.Information(response.Content);
             }
 
