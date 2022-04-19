@@ -14,7 +14,7 @@ var commonNumbers = new List<string>
 };
 var allNumbers = adminNumbers.Concat(commonNumbers);
 
-const int loopDelayInSeconds = 60;
+const int loopDelayInSeconds = 5;
 
 using var logger = new LoggerConfiguration()
     .WriteTo.Console()
@@ -49,11 +49,10 @@ async Task MainLoopAsync()
 
             availableProductsUrls = availableProductsUrls.Where(url => url.Contains("karolin")); //TODO
 
-            await Task.Delay(TimeSpan.FromSeconds(loopDelayInSeconds));
-
             if (!availableProductsUrls.Any())
             {
                 logger.Warning("No available products.");
+                await Delay();
                 continue;
             }
 
@@ -68,6 +67,8 @@ async Task MainLoopAsync()
                 var response = await SendSmsAsync(number, message);
                 logger.Information(response.Content);
             }
+
+            await Delay();
         }
     }
     catch (Exception ex)
@@ -75,6 +76,8 @@ async Task MainLoopAsync()
         await HandleFatalErrorAsync(ex);
     }
 }
+
+async Task Delay() => await Task.Delay(TimeSpan.FromSeconds(loopDelayInSeconds));
 
 async Task<IEnumerable<HtmlNode>> LoadProductsNodesAsync()
 {
@@ -115,7 +118,7 @@ async Task<RestResponse> SendSmsAsync(string to, string message)
     request.AddHeader("Authorization", "Bearer zRi17DqtZUOx3xVdG9ehdeD0bPkon8ze7lCwxcTe");
     request.AddQueryParameter("to", to);
     request.AddQueryParameter("message", message);
-    request.AddQueryParameter("test", "0");
+    request.AddQueryParameter("test", "1");
     request.AddQueryParameter("format", "json");
 
     var response = await client.GetAsync(request);

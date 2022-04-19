@@ -326,3 +326,9 @@ System.Exception: manana
 2022-04-19 23:48:17.466 +02:00 [INF] {"count":1,"list":[{"id":"625F2E2134633549FAAA19A1","points":0.32,"number":"48509338549","date_sent":1650404897,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
 2022-04-19 23:48:17.468 +02:00 [INF] Downloading data from sklep.pgg.pl
 2022-04-19 23:48:17.730 +02:00 [INF] Getting available products...
+2022-04-19 23:59:50.332 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:59:50.926 +02:00 [INF] Getting available products...
+2022-04-19 23:59:50.936 +02:00 [WRN] No available products.
+2022-04-19 23:59:55.945 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:59:57.281 +02:00 [INF] Getting available products...
+2022-04-19 23:59:57.287 +02:00 [WRN] No available products.

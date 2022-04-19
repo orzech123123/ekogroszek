@@ -1,0 +1,52 @@
+2022-04-20 00:00:02.292 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:00:02.452 +02:00 [ERR] Fatal error
+System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Istniejące połączenie zostało gwałtownie zamknięte przez zdalnego hosta..
+ ---> System.Net.Sockets.SocketException (10054): Istniejące połączenie zostało gwałtownie zamknięte przez zdalnego hosta.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at RestSharp.RestClient.ThrowIfError(RestResponse response)
+   at RestSharp.RestClientExtensions.GetAsync(RestClient client, RestRequest request, CancellationToken cancellationToken)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__LoadProductsNodesAsync|3>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 87
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 44
+2022-04-20 00:00:02.502 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-20 00:00:05.743 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:00:06.005 +02:00 [INF] Getting available products...
+2022-04-20 00:00:06.020 +02:00 [WRN] No available products.
+2022-04-20 00:00:11.040 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:00:11.316 +02:00 [INF] Getting available products...
+2022-04-20 00:00:11.328 +02:00 [WRN] No available products.
+2022-04-20 00:00:16.343 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:00:16.617 +02:00 [INF] Getting available products...
+2022-04-20 00:00:16.629 +02:00 [WRN] No available products.
+2022-04-20 00:00:21.650 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:00:21.898 +02:00 [INF] Getting available products...
+2022-04-20 00:00:21.903 +02:00 [WRN] No available products.
+2022-04-20 00:00:37.860 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:00:38.492 +02:00 [INF] Getting available products...
+2022-04-20 00:00:38.510 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:00:38.513 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-20 00:00:39.787 +02:00 [INF] {"count":1,"list":[{"id":"625F3107346335399F70A396","points":0.32,"number":"48509980548","date_sent":1650405638,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-20 00:00:39.789 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-20 00:00:40.090 +02:00 [INF] {"count":1,"list":[{"id":"625F31083463355195964E0D","points":0.32,"number":"48509338549","date_sent":1650405640,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-20 00:00:45.108 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:00:45.363 +02:00 [INF] Getting available products...
+2022-04-20 00:00:45.370 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:00:45.371 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-20 00:00:45.635 +02:00 [INF] {"count":1,"list":[{"id":"625F310D34633551855BD795","points":0.32,"number":"48509980548","date_sent":1650405645,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-20 00:00:45.637 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-20 00:00:45.887 +02:00 [INF] {"count":1,"list":[{"id":"625F310D346335619EFCB5D4","points":0.32,"number":"48509338549","date_sent":1650405645,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-20 00:00:50.899 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:00:51.160 +02:00 [INF] Getting available products...
+2022-04-20 00:00:51.166 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:00:51.167 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-20 00:00:51.401 +02:00 [INF] {"count":1,"list":[{"id":"625F31133463353B23EDDCA7","points":0.32,"number":"48509980548","date_sent":1650405651,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-20 00:00:51.403 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-20 00:00:52.073 +02:00 [INF] {"count":1,"list":[{"id":"625F3114346335594091D7C8","points":0.32,"number":"48509338549","date_sent":1650405652,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
