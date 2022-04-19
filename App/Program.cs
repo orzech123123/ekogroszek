@@ -9,7 +9,7 @@ var adminNumbers = new List<string>
 };
 var commonNumbers = new List<string>
 {
-    //"48509338549"
+    "48509338549"
 };
 var allNumbers = adminNumbers.Concat(commonNumbers);
 
@@ -32,7 +32,7 @@ async Task MainLoopAsync()
     {
         var productsNodes = await LoadProductsNodesAsync();
 
-        var availableProductsNodes = productsNodes.Where(node => !!node.InnerHtml.Contains("Brak towaru"));
+        var availableProductsNodes = productsNodes.Where(node => !node.InnerHtml.Contains("Brak towaru"));
 
         var availableProductsUrls = GetAvailableProductsUrls(availableProductsNodes);
 
