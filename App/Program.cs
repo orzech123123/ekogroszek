@@ -43,7 +43,7 @@ async Task MainLoopAsync()
         {
             var productsNodes = await LoadProductsNodesAsync();
 
-            var availableProductsNodes = productsNodes.Where(node => !!node.InnerHtml.Contains("Brak towaru"));
+            var availableProductsNodes = productsNodes.Where(node => !node.InnerHtml.Contains("Brak towaru"));
 
             var availableProductsUrls = GetAvailableProductsUrls(availableProductsNodes);
 
@@ -115,7 +115,7 @@ async Task<RestResponse> SendSmsAsync(string to, string message)
     request.AddHeader("Authorization", "Bearer zRi17DqtZUOx3xVdG9ehdeD0bPkon8ze7lCwxcTe");
     request.AddQueryParameter("to", to);
     request.AddQueryParameter("message", message);
-    request.AddQueryParameter("test", "1");
+    request.AddQueryParameter("test", "0");
     request.AddQueryParameter("format", "json");
 
     var response = await client.GetAsync(request);
