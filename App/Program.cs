@@ -21,7 +21,13 @@ using var logger = new LoggerConfiguration()
     .WriteTo.File("logs/ekogroszek.txt", rollingInterval: RollingInterval.Day)
     .CreateLogger();
 
-    await MainLoopAsync();
+
+
+
+await MainLoopAsync();
+
+
+
 
 async Task HandleFatalErrorAsync(Exception ex)
 {
