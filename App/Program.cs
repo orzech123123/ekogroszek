@@ -1,5 +1,6 @@
 ﻿using HtmlAgilityPack;
 using RestSharp;
+using Serilog;
 
 const string pggShopBaseUrl = "https://sklep.pgg.pl/";
 
@@ -13,55 +14,72 @@ var commonNumbers = new List<string>
 };
 var allNumbers = adminNumbers.Concat(commonNumbers);
 
-try
-{
+const int loopDelayInSeconds = 60;
+
+using var logger = new LoggerConfiguration()
+    .WriteTo.Console()
+    .WriteTo.File("logs/ekogroszek.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
+
     await MainLoopAsync();
-}
-catch (Exception)
+
+async Task HandleFatalErrorAsync(Exception ex)
 {
+    logger.Error(ex, "Fatal error");
+
     foreach (var number in adminNumbers)
     {
-        var response = await SendSmsAsync(number, "Sth went wrong!");
-        Console.WriteLine(response.Content);
+        var response = await SendSmsAsync(number, "Sth went wrong! Search in log file.");
     }
+
+    await MainLoopAsync();
 }
 
 async Task MainLoopAsync()
 {
-    while (true)
+    try
     {
-        var productsNodes = await LoadProductsNodesAsync();
-
-        var availableProductsNodes = productsNodes.Where(node => !node.InnerHtml.Contains("Brak towaru"));
-
-        var availableProductsUrls = GetAvailableProductsUrls(availableProductsNodes);
-
-        availableProductsUrls = availableProductsUrls.Where(url => url.Contains("karolin")); //TODO
-
-        await Task.Delay(TimeSpan.FromSeconds(10));
-
-        if (!availableProductsUrls.Any())
+        while (true)
         {
-            Console.WriteLine("No available products.");
-            continue;
+            var productsNodes = await LoadProductsNodesAsync();
+
+            var availableProductsNodes = productsNodes.Where(node => !!node.InnerHtml.Contains("Brak towaru"));
+
+            var availableProductsUrls = GetAvailableProductsUrls(availableProductsNodes);
+
+            availableProductsUrls = availableProductsUrls.Where(url => url.Contains("karolin")); //TODO
+
+            await Task.Delay(TimeSpan.FromSeconds(loopDelayInSeconds));
+
+            if (!availableProductsUrls.Any())
+            {
+                logger.Warning("No available products.");
+                continue;
+            }
+
+            var finalUrls = availableProductsUrls.Select(url => $"{url}"); //TODO {pggShopBaseUrl}/
+
+            var message = $"Pojawił się niezerowy stan w sklepie: {string.Join(", ", finalUrls)}";
+
+            logger.Information("<<< ACTIVATING >>>");
+
+            foreach (var number in allNumbers)
+            {
+                var response = await SendSmsAsync(number, message);
+                logger.Information(response.Content);
+            }
         }
-
-        var finalUrls = availableProductsUrls.Select(url => $"/{url}"); //TODO {pggShopBaseUrl}
-
-        var message = $"Pojawił się niezerowy stan w sklepie: {string.Join(", ", finalUrls)}";
-
-        Console.WriteLine(message);
-
-        foreach (var number in allNumbers)
-        {
-            var response = await SendSmsAsync(number, message);
-            Console.WriteLine(response.Content);
-        }
+    }
+    catch (Exception ex)
+    {
+        await HandleFatalErrorAsync(ex);
     }
 }
 
 async Task<IEnumerable<HtmlNode>> LoadProductsNodesAsync()
 {
+    logger.Information("Downloading data from sklep.pgg.pl");
+
     var client = new RestClient("https://sklep.pgg.pl/");
     var request = await client.GetAsync(new RestRequest());
     var document = new HtmlDocument();
@@ -75,6 +93,8 @@ async Task<IEnumerable<HtmlNode>> LoadProductsNodesAsync()
 
 IEnumerable<string> GetAvailableProductsUrls(IEnumerable<HtmlNode> availableProductsNodes)
 {
+    logger.Information("Getting available products...");
+
     var availableProductsUrls = availableProductsNodes
         .Select(node => node.SelectNodes(".//a"))
         .Select(nodes => nodes.FirstOrDefault())
@@ -87,13 +107,15 @@ IEnumerable<string> GetAvailableProductsUrls(IEnumerable<HtmlNode> availableProd
 
 async Task<RestResponse> SendSmsAsync(string to, string message)
 {
+    logger.Information($"Sending sms to {to}: {message}");
+
     var client = new RestClient("https://api.smsapi.pl/sms.do");
 
     var request = new RestRequest();
     request.AddHeader("Authorization", "Bearer zRi17DqtZUOx3xVdG9ehdeD0bPkon8ze7lCwxcTe");
     request.AddQueryParameter("to", to);
     request.AddQueryParameter("message", message);
-    request.AddQueryParameter("test", "0");
+    request.AddQueryParameter("test", "1");
     request.AddQueryParameter("format", "json");
 
     var response = await client.GetAsync(request);

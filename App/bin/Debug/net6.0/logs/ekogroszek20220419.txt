@@ -1,0 +1,328 @@
+2022-04-19 23:18:20.162 +02:00 [WRN] No available products.
+2022-04-19 23:20:55.104 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:20:55.670 +02:00 [INF] Getting available products...
+2022-04-19 23:20:58.697 +02:00 [WRN] No available products.
+2022-04-19 23:20:58.699 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:20:58.949 +02:00 [INF] Getting available products...
+2022-04-19 23:21:01.968 +02:00 [WRN] No available products.
+2022-04-19 23:21:01.970 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:02.282 +02:00 [INF] Getting available products...
+2022-04-19 23:21:05.288 +02:00 [WRN] No available products.
+2022-04-19 23:21:05.291 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:05.543 +02:00 [INF] Getting available products...
+2022-04-19 23:21:08.564 +02:00 [WRN] No available products.
+2022-04-19 23:21:08.566 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:08.810 +02:00 [INF] Getting available products...
+2022-04-19 23:21:11.821 +02:00 [WRN] No available products.
+2022-04-19 23:21:11.823 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:12.065 +02:00 [INF] Getting available products...
+2022-04-19 23:21:15.080 +02:00 [WRN] No available products.
+2022-04-19 23:21:15.082 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:15.342 +02:00 [INF] Getting available products...
+2022-04-19 23:21:18.375 +02:00 [WRN] No available products.
+2022-04-19 23:21:18.376 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:18.624 +02:00 [INF] Getting available products...
+2022-04-19 23:21:21.645 +02:00 [WRN] No available products.
+2022-04-19 23:21:21.647 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:21.917 +02:00 [INF] Getting available products...
+2022-04-19 23:21:24.937 +02:00 [WRN] No available products.
+2022-04-19 23:21:24.938 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:25.191 +02:00 [INF] Getting available products...
+2022-04-19 23:21:28.213 +02:00 [WRN] No available products.
+2022-04-19 23:21:28.215 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:28.477 +02:00 [INF] Getting available products...
+2022-04-19 23:21:31.491 +02:00 [WRN] No available products.
+2022-04-19 23:21:31.494 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:31.729 +02:00 [INF] Getting available products...
+2022-04-19 23:21:34.744 +02:00 [WRN] No available products.
+2022-04-19 23:21:34.746 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:35.005 +02:00 [INF] Getting available products...
+2022-04-19 23:21:38.019 +02:00 [WRN] No available products.
+2022-04-19 23:21:38.021 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:38.249 +02:00 [INF] Getting available products...
+2022-04-19 23:21:41.264 +02:00 [WRN] No available products.
+2022-04-19 23:21:41.266 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:41.510 +02:00 [INF] Getting available products...
+2022-04-19 23:21:44.530 +02:00 [WRN] No available products.
+2022-04-19 23:21:44.533 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:44.780 +02:00 [INF] Getting available products...
+2022-04-19 23:21:47.802 +02:00 [WRN] No available products.
+2022-04-19 23:21:47.804 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:21:48.046 +02:00 [INF] Getting available products...
+2022-04-19 23:22:22.164 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:22:22.864 +02:00 [INF] Getting available products...
+2022-04-19 23:22:25.885 +02:00 [WRN] No available products.
+2022-04-19 23:22:25.928 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:22:26.189 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 62
+--- End of stack trace from previous location ---
+   at Program.<Main>$(String[] args) in C:\Projects\ekogroszek-git\App\Program.cs:line 26
+2022-04-19 23:22:26.252 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:22:26.515 +02:00 [INF] Getting available products...
+2022-04-19 23:22:29.533 +02:00 [WRN] No available products.
+2022-04-19 23:24:55.333 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:24:55.929 +02:00 [INF] Getting available products...
+2022-04-19 23:24:58.952 +02:00 [WRN] No available products.
+2022-04-19 23:24:58.975 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:24:59.203 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 57
+2022-04-19 23:24:59.228 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:24:59.496 +02:00 [INF] Getting available products...
+2022-04-19 23:25:02.514 +02:00 [WRN] No available products.
+2022-04-19 23:25:02.534 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:25:02.776 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 57
+2022-04-19 23:25:02.778 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:03.024 +02:00 [INF] Getting available products...
+2022-04-19 23:25:06.040 +02:00 [WRN] No available products.
+2022-04-19 23:25:06.057 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:25:06.265 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 57
+2022-04-19 23:25:06.268 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:06.522 +02:00 [INF] Getting available products...
+2022-04-19 23:25:09.531 +02:00 [WRN] No available products.
+2022-04-19 23:25:09.549 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:25:09.770 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 57
+2022-04-19 23:25:09.775 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:10.027 +02:00 [INF] Getting available products...
+2022-04-19 23:25:13.031 +02:00 [WRN] No available products.
+2022-04-19 23:25:13.049 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:25:13.274 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 57
+2022-04-19 23:25:13.281 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:13.518 +02:00 [INF] Getting available products...
+2022-04-19 23:25:16.531 +02:00 [WRN] No available products.
+2022-04-19 23:25:16.548 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:25:16.760 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 57
+2022-04-19 23:25:16.766 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:17.012 +02:00 [INF] Getting available products...
+2022-04-19 23:25:20.034 +02:00 [WRN] No available products.
+2022-04-19 23:25:20.052 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:25:20.254 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 57
+2022-04-19 23:25:20.260 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:20.516 +02:00 [INF] Getting available products...
+2022-04-19 23:25:23.546 +02:00 [WRN] No available products.
+2022-04-19 23:25:23.564 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:25:23.756 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 57
+2022-04-19 23:25:23.762 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:24.008 +02:00 [INF] Getting available products...
+2022-04-19 23:25:27.030 +02:00 [WRN] No available products.
+2022-04-19 23:25:27.047 +02:00 [INF] Sending sms to 48509980548: Sth went wrong! Search in log file.
+2022-04-19 23:25:27.278 +02:00 [ERR] Fatal error
+System.Exception: manana
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 57
+2022-04-19 23:25:27.283 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:27.528 +02:00 [INF] Getting available products...
+2022-04-19 23:25:36.652 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:37.294 +02:00 [INF] Getting available products...
+2022-04-19 23:25:40.315 +02:00 [WRN] No available products.
+2022-04-19 23:25:40.317 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:40.568 +02:00 [INF] Getting available products...
+2022-04-19 23:25:43.586 +02:00 [WRN] No available products.
+2022-04-19 23:25:43.588 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:43.833 +02:00 [INF] Getting available products...
+2022-04-19 23:25:46.850 +02:00 [WRN] No available products.
+2022-04-19 23:25:46.852 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:47.094 +02:00 [INF] Getting available products...
+2022-04-19 23:25:50.100 +02:00 [WRN] No available products.
+2022-04-19 23:25:50.101 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:50.360 +02:00 [INF] Getting available products...
+2022-04-19 23:25:53.378 +02:00 [WRN] No available products.
+2022-04-19 23:25:53.380 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:53.651 +02:00 [INF] Getting available products...
+2022-04-19 23:25:56.666 +02:00 [WRN] No available products.
+2022-04-19 23:25:56.668 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:25:56.921 +02:00 [INF] Getting available products...
+2022-04-19 23:25:59.938 +02:00 [WRN] No available products.
+2022-04-19 23:25:59.939 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:00.199 +02:00 [INF] Getting available products...
+2022-04-19 23:26:03.208 +02:00 [WRN] No available products.
+2022-04-19 23:26:03.210 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:03.476 +02:00 [INF] Getting available products...
+2022-04-19 23:26:06.484 +02:00 [WRN] No available products.
+2022-04-19 23:26:06.485 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:06.746 +02:00 [INF] Getting available products...
+2022-04-19 23:26:18.648 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:19.313 +02:00 [INF] Getting available products...
+2022-04-19 23:26:22.339 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:22.342 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:22.586 +02:00 [INF] {"count":1,"list":[{"id":"625F28FE34633523C9587F45","points":0.32,"number":"48509980548","date_sent":1650403582,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:22.588 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:22.807 +02:00 [INF] {"count":1,"list":[{"id":"625F28FE34633540BD5DC8F1","points":0.32,"number":"48509338549","date_sent":1650403582,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:22.809 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:23.055 +02:00 [INF] Getting available products...
+2022-04-19 23:26:26.073 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:26.075 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:26.277 +02:00 [INF] {"count":1,"list":[{"id":"625F29023463353B23B39919","points":0.32,"number":"48509980548","date_sent":1650403586,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:26.278 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:26.493 +02:00 [INF] {"count":1,"list":[{"id":"625F2902346335442BB114A8","points":0.32,"number":"48509338549","date_sent":1650403586,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:26.495 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:26.729 +02:00 [INF] Getting available products...
+2022-04-19 23:26:29.747 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:29.748 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:29.948 +02:00 [INF] {"count":1,"list":[{"id":"625F29053463354282DC6817","points":0.32,"number":"48509980548","date_sent":1650403589,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:29.952 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:30.176 +02:00 [INF] {"count":1,"list":[{"id":"625F29063463354595D5A883","points":0.32,"number":"48509338549","date_sent":1650403590,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:30.179 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:30.424 +02:00 [INF] Getting available products...
+2022-04-19 23:26:33.434 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:33.436 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:33.655 +02:00 [INF] {"count":1,"list":[{"id":"625F2909346335730343827D","points":0.32,"number":"48509980548","date_sent":1650403593,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:33.658 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:33.892 +02:00 [INF] {"count":1,"list":[{"id":"625F290934633553CB5D2C8C","points":0.32,"number":"48509338549","date_sent":1650403593,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:33.895 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:34.147 +02:00 [INF] Getting available products...
+2022-04-19 23:26:37.159 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:37.160 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:37.376 +02:00 [INF] {"count":1,"list":[{"id":"625F290D3463352B3E8ED15E","points":0.32,"number":"48509980548","date_sent":1650403597,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:37.382 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:37.610 +02:00 [INF] {"count":1,"list":[{"id":"625F290D346335365A40F63F","points":0.32,"number":"48509338549","date_sent":1650403597,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:37.612 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:37.864 +02:00 [INF] Getting available products...
+2022-04-19 23:26:40.880 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:40.883 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:41.090 +02:00 [INF] {"count":1,"list":[{"id":"625F291134633524CFDA7CE2","points":0.32,"number":"48509980548","date_sent":1650403601,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:41.093 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:41.305 +02:00 [INF] {"count":1,"list":[{"id":"625F2911346335405F37325B","points":0.32,"number":"48509338549","date_sent":1650403601,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:41.308 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:41.569 +02:00 [INF] Getting available products...
+2022-04-19 23:26:44.585 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:44.587 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:44.831 +02:00 [INF] {"count":1,"list":[{"id":"625F291434633557FDDCF55D","points":0.32,"number":"48509980548","date_sent":1650403604,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:44.833 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:45.043 +02:00 [INF] {"count":1,"list":[{"id":"625F29153463354396F1BA55","points":0.32,"number":"48509338549","date_sent":1650403605,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:45.046 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:45.310 +02:00 [INF] Getting available products...
+2022-04-19 23:26:48.327 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:48.329 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:48.556 +02:00 [INF] {"count":1,"list":[{"id":"625F29183463355FBAD2A821","points":0.32,"number":"48509980548","date_sent":1650403608,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:48.559 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:48.784 +02:00 [INF] {"count":1,"list":[{"id":"625F29183463355A2714EC7F","points":0.32,"number":"48509338549","date_sent":1650403608,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:48.787 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:49.035 +02:00 [INF] Getting available products...
+2022-04-19 23:26:52.056 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:52.059 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:52.252 +02:00 [INF] {"count":1,"list":[{"id":"625F291C3463353789C42326","points":0.32,"number":"48509980548","date_sent":1650403612,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:52.255 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:52.494 +02:00 [INF] {"count":1,"list":[{"id":"625F291C346335730339880C","points":0.32,"number":"48509338549","date_sent":1650403612,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:52.497 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:52.739 +02:00 [INF] Getting available products...
+2022-04-19 23:26:55.752 +02:00 [INF] Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:55.756 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:55.968 +02:00 [INF] {"count":1,"list":[{"id":"625F29203463357180A52701","points":0.32,"number":"48509980548","date_sent":1650403615,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:55.972 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: //produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:26:56.189 +02:00 [INF] {"count":1,"list":[{"id":"625F292034633539A0119D38","points":0.32,"number":"48509338549","date_sent":1650403616,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:26:56.191 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:26:56.435 +02:00 [INF] Getting available products...
+2022-04-19 23:31:37.068 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:31:37.682 +02:00 [INF] Getting available products...
+2022-04-19 23:31:40.703 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:31:40.706 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:40.967 +02:00 [INF] {"count":1,"list":[{"id":"625F2A3D346335777CA2428D","points":0.32,"number":"48509980548","date_sent":1650403900,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:40.969 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:41.185 +02:00 [INF] {"count":1,"list":[{"id":"625F2A3D3463354CA7AEA754","points":0.32,"number":"48509338549","date_sent":1650403901,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:41.187 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:31:41.452 +02:00 [INF] Getting available products...
+2022-04-19 23:31:44.461 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:31:44.463 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:44.653 +02:00 [INF] {"count":1,"list":[{"id":"625F2A4034633543E40E428C","points":0.32,"number":"48509980548","date_sent":1650403904,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:44.655 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:44.861 +02:00 [INF] {"count":1,"list":[{"id":"625F2A4034633540BDFB718B","points":0.32,"number":"48509338549","date_sent":1650403904,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:44.863 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:31:46.283 +02:00 [INF] Getting available products...
+2022-04-19 23:31:49.295 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:31:49.297 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:49.490 +02:00 [INF] {"count":1,"list":[{"id":"625F2A453463353B23C99BF2","points":0.32,"number":"48509980548","date_sent":1650403909,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:49.491 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:49.703 +02:00 [INF] {"count":1,"list":[{"id":"625F2A4534633539425B565A","points":0.32,"number":"48509338549","date_sent":1650403909,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:49.707 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:31:51.178 +02:00 [INF] Getting available products...
+2022-04-19 23:31:54.196 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:31:54.198 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:54.410 +02:00 [INF] {"count":1,"list":[{"id":"625F2A4A3463355AF8F4ABAD","points":0.32,"number":"48509980548","date_sent":1650403914,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:54.413 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:54.650 +02:00 [INF] {"count":1,"list":[{"id":"625F2A4A346335507B12517E","points":0.32,"number":"48509338549","date_sent":1650403914,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:54.652 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:31:54.896 +02:00 [INF] Getting available products...
+2022-04-19 23:31:57.904 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:31:57.906 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:58.110 +02:00 [INF] {"count":1,"list":[{"id":"625F2A4E34633539DBDB71A3","points":0.32,"number":"48509980548","date_sent":1650403918,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:58.112 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:31:58.331 +02:00 [INF] {"count":1,"list":[{"id":"625F2A4E34633526E2A17AC9","points":0.32,"number":"48509338549","date_sent":1650403918,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:31:58.334 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:31:58.575 +02:00 [INF] Getting available products...
+2022-04-19 23:32:01.598 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:32:01.599 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:32:01.863 +02:00 [INF] {"count":1,"list":[{"id":"625F2A5134633542D9C9EF5C","points":0.32,"number":"48509980548","date_sent":1650403921,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:32:01.866 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:47:47.261 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:47:47.834 +02:00 [INF] Getting available products...
+2022-04-19 23:47:50.856 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:47:50.858 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:47:51.127 +02:00 [INF] {"count":1,"list":[{"id":"625F2E0734633539A03383B2","points":0.32,"number":"48509980548","date_sent":1650404871,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:47:51.129 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:47:51.345 +02:00 [INF] {"count":1,"list":[{"id":"625F2E073463353CE92B08DA","points":0.32,"number":"48509338549","date_sent":1650404871,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:47:51.347 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:47:51.608 +02:00 [INF] Getting available products...
+2022-04-19 23:47:54.630 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:47:54.632 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:47:54.847 +02:00 [INF] {"count":1,"list":[{"id":"625F2E0A346335590CC610A6","points":0.32,"number":"48509980548","date_sent":1650404874,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:47:54.849 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:47:55.068 +02:00 [INF] {"count":1,"list":[{"id":"625F2E0B346335323760D148","points":0.32,"number":"48509338549","date_sent":1650404875,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:47:55.070 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:47:55.309 +02:00 [INF] Getting available products...
+2022-04-19 23:47:58.318 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:47:58.320 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:47:58.550 +02:00 [INF] {"count":1,"list":[{"id":"625F2E0E346335519503CE83","points":0.32,"number":"48509980548","date_sent":1650404878,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:47:58.552 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:47:58.765 +02:00 [INF] {"count":1,"list":[{"id":"625F2E0E346335340935928A","points":0.32,"number":"48509338549","date_sent":1650404878,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:47:58.767 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:47:59.013 +02:00 [INF] Getting available products...
+2022-04-19 23:48:02.021 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:48:02.023 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:02.282 +02:00 [INF] {"count":1,"list":[{"id":"625F2E12346335478E253CDB","points":0.32,"number":"48509980548","date_sent":1650404882,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:02.284 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:02.554 +02:00 [INF] {"count":1,"list":[{"id":"625F2E1234633571807490F2","points":0.32,"number":"48509338549","date_sent":1650404882,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:02.557 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:48:02.815 +02:00 [INF] Getting available products...
+2022-04-19 23:48:05.824 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:48:05.826 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:06.050 +02:00 [INF] {"count":1,"list":[{"id":"625F2E16346335442BA3C2C6","points":0.32,"number":"48509980548","date_sent":1650404886,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:06.054 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:06.309 +02:00 [INF] {"count":1,"list":[{"id":"625F2E1634633540AC5C23AC","points":0.32,"number":"48509338549","date_sent":1650404886,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:06.311 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:48:06.562 +02:00 [INF] Getting available products...
+2022-04-19 23:48:09.576 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:48:09.578 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:09.800 +02:00 [INF] {"count":1,"list":[{"id":"625F2E1934633524CFD498BB","points":0.32,"number":"48509980548","date_sent":1650404889,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:09.802 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:10.049 +02:00 [INF] {"count":1,"list":[{"id":"625F2E1A34633539454F8637","points":0.32,"number":"48509338549","date_sent":1650404890,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:10.052 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:48:10.318 +02:00 [INF] Getting available products...
+2022-04-19 23:48:13.329 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:48:13.331 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:13.550 +02:00 [INF] {"count":1,"list":[{"id":"625F2E1D3463357CF3737DD5","points":0.32,"number":"48509980548","date_sent":1650404893,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:13.553 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:13.784 +02:00 [INF] {"count":1,"list":[{"id":"625F2E1D3463353945D8449B","points":0.32,"number":"48509338549","date_sent":1650404893,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:13.787 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:48:14.044 +02:00 [INF] Getting available products...
+2022-04-19 23:48:17.060 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-19 23:48:17.062 +02:00 [INF] Sending sms to 48509980548: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:17.258 +02:00 [INF] {"count":1,"list":[{"id":"625F2E21346335439D944B01","points":0.32,"number":"48509980548","date_sent":1650404897,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:17.262 +02:00 [INF] Sending sms to 48509338549: Pojawił się niezerowy stan w sklepie: /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+2022-04-19 23:48:17.466 +02:00 [INF] {"count":1,"list":[{"id":"625F2E2134633549FAAA19A1","points":0.32,"number":"48509338549","date_sent":1650404897,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":2}]}
+2022-04-19 23:48:17.468 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-19 23:48:17.730 +02:00 [INF] Getting available products...

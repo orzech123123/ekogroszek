@@ -31,3 +31,6 @@ C:\Projects\ekogroszek-git\App\obj\Debug\net6.0\Ekogroszek.pdb
 C:\Projects\ekogroszek-git\App\obj\Debug\net6.0\Ekogroszek.genruntimeconfig.cache
 C:\Projects\ekogroszek-git\App\obj\Debug\net6.0\ref\Ekogroszek.dll
 C:\Projects\ekogroszek-git\App\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Projects\ekogroszek-git\App\bin\Debug\net6.0\Serilog.dll
+C:\Projects\ekogroszek-git\App\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Projects\ekogroszek-git\App\bin\Debug\net6.0\Serilog.Sinks.Console.dll

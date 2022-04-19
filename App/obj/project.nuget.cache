@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "s0792BtNYr2oXqjKH8RGj3JAZMiNkmppNjYBy5w0ntENuz/I3jRf/6RW4sMduzRzPBv1DcXiPONLgNUGSuGs4A==",
+  "dgSpecHash": "XdOpRr9I62TNx8YiZNGBSeGCGY1g43RhpwnHHosYvTojsungtSDEij62IYYH4EiRu+arlDEYPiHgHNTaWIsY6g==",
   "success": true,
   "projectFilePath": "C:\\Projects\\ekogroszek-git\\App\\Ekogroszek.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michal Orzechowski\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512",
-    "C:\\Users\\Michal Orzechowski\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512"
+    "C:\\Users\\Michal Orzechowski\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\Michal Orzechowski\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\Michal Orzechowski\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\Michal Orzechowski\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
