@@ -141,3 +141,853 @@ System.Net.Http.HttpRequestException: An error occurred while sending the reques
 2022-04-20 00:40:07.218 +02:00 [INF] Downloading data from sklep.pgg.pl
 2022-04-20 00:40:08.081 +02:00 [INF] Getting available products...
 2022-04-20 00:40:08.094 +02:00 [WRN] No available products.
+2022-04-20 00:42:04.584 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:42:05.379 +02:00 [INF] Getting available products...
+2022-04-20 00:42:05.396 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:42:05.397 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:42:05.402 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:42:05.669 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:42:05.671 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:42:05.957 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:42:54.954 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:42:55.738 +02:00 [INF] Getting available products...
+2022-04-20 00:42:55.751 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:42:55.753 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:42:55.759 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:42:56.134 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:42:56.135 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:42:56.441 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:43:56.464 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:43:56.747 +02:00 [INF] Getting available products...
+2022-04-20 00:43:56.755 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:43:56.757 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:43:56.763 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:43:56.988 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:43:56.989 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:43:57.234 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:44:57.247 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:44:57.669 +02:00 [INF] Getting available products...
+2022-04-20 00:44:57.675 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:44:57.676 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:44:57.682 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:44:57.988 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:44:57.990 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:44:58.304 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:45:58.331 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:45:58.802 +02:00 [INF] Getting available products...
+2022-04-20 00:45:58.810 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:45:58.812 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:45:58.817 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:45:59.121 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:45:59.123 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:45:59.338 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:46:59.357 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:46:59.837 +02:00 [INF] Getting available products...
+2022-04-20 00:46:59.843 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:46:59.845 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:46:59.856 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:47:00.152 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:47:00.154 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:47:00.458 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:48:00.493 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:48:00.923 +02:00 [INF] Getting available products...
+2022-04-20 00:48:00.933 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:48:00.934 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:48:00.945 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:48:01.282 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:48:01.283 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:48:01.522 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:49:01.544 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:49:01.808 +02:00 [INF] Getting available products...
+2022-04-20 00:49:01.815 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:49:01.817 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:49:01.825 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:49:02.067 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:49:02.069 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:49:02.349 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:50:02.374 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:50:02.942 +02:00 [INF] Getting available products...
+2022-04-20 00:50:02.949 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:50:02.950 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:50:02.955 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:50:03.256 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:50:03.258 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:50:03.549 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:50:19.763 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 00:50:20.617 +02:00 [INF] Getting available products...
+2022-04-20 00:50:20.637 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 00:50:20.640 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz
+2022-04-20 00:50:20.645 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:50:20.957 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 00:50:20.959 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 00:50:21.263 +02:00 [INF] {"error":103,"message":"Cannot send sms, account balance is low"}
+2022-04-20 14:13:07.984 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:13:08.999 +02:00 [INF] Getting available products...
+2022-04-20 14:13:09.014 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 14:13:09.016 +02:00 [INF] /produkty/18/13/kostka-ziemowit-1000-kg-luz
+2022-04-20 14:13:09.018 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:13:09.311 +02:00 [INF] {"count":1,"list":[{"id":"625FF8D5346335779942598B","points":0.16,"number":"48509980548","date_sent":1650456789,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:13:09.316 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:13:09.595 +02:00 [INF] {"count":1,"list":[{"id":"625FF8D634633531CE4A969E","points":0.16,"number":"48509338549","date_sent":1650456790,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:14:09.615 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:14:09.969 +02:00 [INF] Getting available products...
+2022-04-20 14:14:09.978 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 14:14:09.981 +02:00 [INF] /produkty/18/13/kostka-ziemowit-1000-kg-luz
+2022-04-20 14:14:09.983 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:14:10.236 +02:00 [INF] {"count":1,"list":[{"id":"625FF9123463354A3984A2ED","points":0.16,"number":"48509980548","date_sent":1650456850,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:14:10.239 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:14:10.492 +02:00 [INF] {"count":1,"list":[{"id":"625FF9123463353943ED56E6","points":0.16,"number":"48509338549","date_sent":1650456850,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:15:10.502 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:15:10.767 +02:00 [INF] Getting available products...
+2022-04-20 14:15:10.776 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 14:15:10.777 +02:00 [INF] /produkty/18/13/kostka-ziemowit-1000-kg-luz
+2022-04-20 14:15:10.779 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:15:11.059 +02:00 [INF] {"count":1,"list":[{"id":"625FF94F346335406401B36C","points":0.16,"number":"48509980548","date_sent":1650456911,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:15:11.062 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:15:11.337 +02:00 [INF] {"count":1,"list":[{"id":"625FF94F3463357AE983FEAE","points":0.16,"number":"48509338549","date_sent":1650456911,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:16:11.359 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:16:12.157 +02:00 [INF] Getting available products...
+2022-04-20 14:16:12.183 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 14:16:12.184 +02:00 [INF] /produkty/18/13/kostka-ziemowit-1000-kg-luz
+2022-04-20 14:16:12.187 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:16:12.459 +02:00 [INF] {"count":1,"list":[{"id":"625FF98C34633539442C1C60","points":0.16,"number":"48509980548","date_sent":1650456972,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:16:12.463 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:16:12.733 +02:00 [INF] {"count":1,"list":[{"id":"625FF98D346335777C99DEFE","points":0.16,"number":"48509338549","date_sent":1650456973,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:17:12.752 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:17:13.065 +02:00 [INF] Getting available products...
+2022-04-20 14:17:13.073 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 14:17:13.076 +02:00 [INF] /produkty/18/13/kostka-ziemowit-1000-kg-luz
+2022-04-20 14:17:13.078 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:17:13.348 +02:00 [INF] {"count":1,"list":[{"id":"625FF9C934633523FE7356A4","points":0.16,"number":"48509980548","date_sent":1650457033,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:17:13.351 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:17:13.597 +02:00 [INF] {"count":1,"list":[{"id":"625FF9CA34633578BC246863","points":0.16,"number":"48509338549","date_sent":1650457034,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:18:13.604 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:18:14.024 +02:00 [INF] Getting available products...
+2022-04-20 14:18:14.032 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 14:18:14.035 +02:00 [INF] /produkty/18/13/kostka-ziemowit-1000-kg-luz
+2022-04-20 14:18:14.040 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:18:14.330 +02:00 [INF] {"count":1,"list":[{"id":"625FFA063463354281C610D5","points":0.16,"number":"48509980548","date_sent":1650457094,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:18:14.355 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:18:14.612 +02:00 [INF] {"count":1,"list":[{"id":"625FFA07346335777CEDA47B","points":0.16,"number":"48509338549","date_sent":1650457095,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:19:14.621 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:19:14.933 +02:00 [INF] Getting available products...
+2022-04-20 14:19:14.942 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 14:19:14.944 +02:00 [INF] /produkty/18/13/kostka-ziemowit-1000-kg-luz
+2022-04-20 14:19:14.946 +02:00 [INF] Sending sms to 48509980548: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:19:15.419 +02:00 [INF] {"count":1,"list":[{"id":"625FFA433463355BB386F9FC","points":0.16,"number":"48509980548","date_sent":1650457155,"submitted_number":"48509980548","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:19:15.429 +02:00 [INF] Sending sms to 48509338549: Pojawil sie niezerowy stan w sklepie!
+2022-04-20 14:19:15.696 +02:00 [INF] {"count":1,"list":[{"id":"625FFA44346335518433E26F","points":0.16,"number":"48509338549","date_sent":1650457156,"submitted_number":"48509338549","status":"QUEUE","error":null,"idx":null,"parts":1}]}
+2022-04-20 14:20:15.711 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:20:16.057 +02:00 [INF] Getting available products...
+2022-04-20 14:20:16.065 +02:00 [WRN] No available products.
+2022-04-20 14:21:16.077 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:21:16.337 +02:00 [INF] Getting available products...
+2022-04-20 14:21:16.344 +02:00 [WRN] No available products.
+2022-04-20 14:22:16.366 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:22:16.595 +02:00 [INF] Getting available products...
+2022-04-20 14:22:16.601 +02:00 [WRN] No available products.
+2022-04-20 14:23:16.606 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:23:17.136 +02:00 [INF] Getting available products...
+2022-04-20 14:23:17.144 +02:00 [WRN] No available products.
+2022-04-20 14:24:17.149 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:24:17.385 +02:00 [INF] Getting available products...
+2022-04-20 14:24:17.392 +02:00 [WRN] No available products.
+2022-04-20 14:25:17.420 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:25:19.611 +02:00 [INF] Getting available products...
+2022-04-20 14:25:19.619 +02:00 [WRN] No available products.
+2022-04-20 14:26:19.626 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:26:19.948 +02:00 [INF] Getting available products...
+2022-04-20 14:26:19.957 +02:00 [WRN] No available products.
+2022-04-20 14:27:19.966 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:27:20.246 +02:00 [INF] Getting available products...
+2022-04-20 14:27:20.253 +02:00 [WRN] No available products.
+2022-04-20 14:28:20.281 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:28:20.579 +02:00 [INF] Getting available products...
+2022-04-20 14:28:20.588 +02:00 [WRN] No available products.
+2022-04-20 14:29:20.600 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:29:20.837 +02:00 [INF] Getting available products...
+2022-04-20 14:29:20.845 +02:00 [WRN] No available products.
+2022-04-20 14:30:20.848 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:30:21.119 +02:00 [INF] Getting available products...
+2022-04-20 14:30:21.128 +02:00 [WRN] No available products.
+2022-04-20 14:31:21.151 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:31:21.388 +02:00 [INF] Getting available products...
+2022-04-20 14:31:21.396 +02:00 [WRN] No available products.
+2022-04-20 14:32:21.412 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:32:21.643 +02:00 [INF] Getting available products...
+2022-04-20 14:32:21.652 +02:00 [WRN] No available products.
+2022-04-20 14:33:21.657 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:33:21.918 +02:00 [INF] Getting available products...
+2022-04-20 14:33:21.926 +02:00 [WRN] No available products.
+2022-04-20 14:34:21.941 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:34:22.182 +02:00 [INF] Getting available products...
+2022-04-20 14:34:22.192 +02:00 [WRN] No available products.
+2022-04-20 14:35:22.221 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:35:22.470 +02:00 [INF] Getting available products...
+2022-04-20 14:35:22.478 +02:00 [WRN] No available products.
+2022-04-20 14:36:22.493 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:36:22.735 +02:00 [INF] Getting available products...
+2022-04-20 14:36:22.744 +02:00 [WRN] No available products.
+2022-04-20 14:37:22.756 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:37:22.999 +02:00 [INF] Getting available products...
+2022-04-20 14:37:23.011 +02:00 [WRN] No available products.
+2022-04-20 14:38:23.016 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:38:23.255 +02:00 [INF] Getting available products...
+2022-04-20 14:38:23.263 +02:00 [WRN] No available products.
+2022-04-20 14:39:23.270 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:39:23.514 +02:00 [INF] Getting available products...
+2022-04-20 14:39:23.527 +02:00 [WRN] No available products.
+2022-04-20 14:40:23.533 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:40:23.787 +02:00 [INF] Getting available products...
+2022-04-20 14:40:23.795 +02:00 [WRN] No available products.
+2022-04-20 14:41:23.807 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:41:24.036 +02:00 [INF] Getting available products...
+2022-04-20 14:41:24.041 +02:00 [WRN] No available products.
+2022-04-20 14:42:24.044 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:42:24.279 +02:00 [INF] Getting available products...
+2022-04-20 14:42:24.290 +02:00 [WRN] No available products.
+2022-04-20 14:43:24.292 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:43:24.528 +02:00 [INF] Getting available products...
+2022-04-20 14:43:24.534 +02:00 [WRN] No available products.
+2022-04-20 14:44:24.541 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:44:24.776 +02:00 [INF] Getting available products...
+2022-04-20 14:44:24.781 +02:00 [WRN] No available products.
+2022-04-20 14:45:24.798 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:45:25.044 +02:00 [INF] Getting available products...
+2022-04-20 14:45:25.049 +02:00 [WRN] No available products.
+2022-04-20 14:46:25.073 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:46:26.824 +02:00 [INF] Getting available products...
+2022-04-20 14:46:26.830 +02:00 [WRN] No available products.
+2022-04-20 14:47:26.851 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:47:27.088 +02:00 [INF] Getting available products...
+2022-04-20 14:47:27.093 +02:00 [WRN] No available products.
+2022-04-20 14:48:27.112 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:48:27.349 +02:00 [INF] Getting available products...
+2022-04-20 14:48:27.355 +02:00 [WRN] No available products.
+2022-04-20 14:49:27.359 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:49:27.597 +02:00 [INF] Getting available products...
+2022-04-20 14:49:27.602 +02:00 [WRN] No available products.
+2022-04-20 14:50:27.612 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:50:27.840 +02:00 [INF] Getting available products...
+2022-04-20 14:50:27.845 +02:00 [WRN] No available products.
+2022-04-20 14:51:27.877 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:51:28.108 +02:00 [INF] Getting available products...
+2022-04-20 14:51:28.114 +02:00 [WRN] No available products.
+2022-04-20 14:52:28.125 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:52:28.355 +02:00 [INF] Getting available products...
+2022-04-20 14:52:28.360 +02:00 [WRN] No available products.
+2022-04-20 14:53:28.371 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:53:28.595 +02:00 [INF] Getting available products...
+2022-04-20 14:53:28.599 +02:00 [WRN] No available products.
+2022-04-20 14:54:28.616 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:54:28.864 +02:00 [INF] Getting available products...
+2022-04-20 14:54:28.870 +02:00 [WRN] No available products.
+2022-04-20 14:55:28.880 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:55:29.125 +02:00 [INF] Getting available products...
+2022-04-20 14:55:29.130 +02:00 [WRN] No available products.
+2022-04-20 14:56:29.147 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:56:29.377 +02:00 [INF] Getting available products...
+2022-04-20 14:56:29.381 +02:00 [WRN] No available products.
+2022-04-20 14:57:29.400 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:57:29.626 +02:00 [INF] Getting available products...
+2022-04-20 14:57:29.631 +02:00 [WRN] No available products.
+2022-04-20 14:58:29.652 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:58:29.894 +02:00 [INF] Getting available products...
+2022-04-20 14:58:29.903 +02:00 [WRN] No available products.
+2022-04-20 14:59:29.916 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 14:59:30.160 +02:00 [INF] Getting available products...
+2022-04-20 14:59:30.169 +02:00 [WRN] No available products.
+2022-04-20 15:00:30.182 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:00:30.434 +02:00 [INF] Getting available products...
+2022-04-20 15:00:30.443 +02:00 [WRN] No available products.
+2022-04-20 15:01:30.457 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:01:30.717 +02:00 [INF] Getting available products...
+2022-04-20 15:01:30.725 +02:00 [WRN] No available products.
+2022-04-20 15:02:30.734 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:02:30.994 +02:00 [INF] Getting available products...
+2022-04-20 15:02:31.003 +02:00 [WRN] No available products.
+2022-04-20 15:03:31.009 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:03:31.250 +02:00 [INF] Getting available products...
+2022-04-20 15:03:31.257 +02:00 [WRN] No available products.
+2022-04-20 15:04:31.264 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:04:31.494 +02:00 [INF] Getting available products...
+2022-04-20 15:04:31.502 +02:00 [WRN] No available products.
+2022-04-20 15:05:31.515 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:05:31.762 +02:00 [INF] Getting available products...
+2022-04-20 15:05:31.772 +02:00 [WRN] No available products.
+2022-04-20 15:06:31.777 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:06:32.047 +02:00 [INF] Getting available products...
+2022-04-20 15:06:32.055 +02:00 [WRN] No available products.
+2022-04-20 15:07:32.070 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:07:32.333 +02:00 [INF] Getting available products...
+2022-04-20 15:07:32.341 +02:00 [WRN] No available products.
+2022-04-20 15:08:32.353 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:08:32.589 +02:00 [INF] Getting available products...
+2022-04-20 15:08:32.597 +02:00 [WRN] No available products.
+2022-04-20 15:09:32.624 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:09:32.854 +02:00 [INF] Getting available products...
+2022-04-20 15:09:32.862 +02:00 [WRN] No available products.
+2022-04-20 15:10:32.868 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:10:33.122 +02:00 [INF] Getting available products...
+2022-04-20 15:10:33.129 +02:00 [WRN] No available products.
+2022-04-20 15:11:33.146 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:11:33.414 +02:00 [INF] Getting available products...
+2022-04-20 15:11:33.422 +02:00 [WRN] No available products.
+2022-04-20 15:12:33.427 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:12:33.672 +02:00 [INF] Getting available products...
+2022-04-20 15:12:33.679 +02:00 [WRN] No available products.
+2022-04-20 15:13:33.695 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:13:33.955 +02:00 [INF] Getting available products...
+2022-04-20 15:13:33.963 +02:00 [WRN] No available products.
+2022-04-20 15:14:33.978 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:14:34.231 +02:00 [INF] Getting available products...
+2022-04-20 15:14:34.239 +02:00 [WRN] No available products.
+2022-04-20 15:15:34.251 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:15:34.497 +02:00 [INF] Getting available products...
+2022-04-20 15:15:34.506 +02:00 [WRN] No available products.
+2022-04-20 15:16:34.518 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:16:34.753 +02:00 [INF] Getting available products...
+2022-04-20 15:16:34.761 +02:00 [WRN] No available products.
+2022-04-20 15:17:34.766 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:17:35.000 +02:00 [INF] Getting available products...
+2022-04-20 15:17:35.032 +02:00 [WRN] No available products.
+2022-04-20 15:18:35.043 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:18:35.285 +02:00 [INF] Getting available products...
+2022-04-20 15:18:35.295 +02:00 [WRN] No available products.
+2022-04-20 15:19:35.307 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:19:35.535 +02:00 [INF] Getting available products...
+2022-04-20 15:19:35.542 +02:00 [WRN] No available products.
+2022-04-20 15:20:35.548 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:20:35.798 +02:00 [INF] Getting available products...
+2022-04-20 15:20:35.807 +02:00 [WRN] No available products.
+2022-04-20 15:21:35.814 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:21:36.072 +02:00 [INF] Getting available products...
+2022-04-20 15:21:36.080 +02:00 [WRN] No available products.
+2022-04-20 15:22:36.101 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:22:36.349 +02:00 [INF] Getting available products...
+2022-04-20 15:22:36.358 +02:00 [WRN] No available products.
+2022-04-20 15:23:36.367 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:23:36.598 +02:00 [INF] Getting available products...
+2022-04-20 15:23:36.606 +02:00 [WRN] No available products.
+2022-04-20 15:24:36.623 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:24:36.869 +02:00 [INF] Getting available products...
+2022-04-20 15:24:36.877 +02:00 [WRN] No available products.
+2022-04-20 15:25:36.893 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:25:37.151 +02:00 [INF] Getting available products...
+2022-04-20 15:25:37.159 +02:00 [WRN] No available products.
+2022-04-20 15:26:37.173 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:26:37.402 +02:00 [INF] Getting available products...
+2022-04-20 15:26:37.409 +02:00 [WRN] No available products.
+2022-04-20 15:27:37.422 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:27:37.674 +02:00 [INF] Getting available products...
+2022-04-20 15:27:37.683 +02:00 [WRN] No available products.
+2022-04-20 15:28:37.696 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:28:37.948 +02:00 [INF] Getting available products...
+2022-04-20 15:28:37.957 +02:00 [WRN] No available products.
+2022-04-20 15:29:37.964 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:29:38.230 +02:00 [INF] Getting available products...
+2022-04-20 15:29:38.240 +02:00 [WRN] No available products.
+2022-04-20 15:30:38.250 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:30:38.514 +02:00 [INF] Getting available products...
+2022-04-20 15:30:38.526 +02:00 [WRN] No available products.
+2022-04-20 15:31:38.530 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:31:38.786 +02:00 [INF] Getting available products...
+2022-04-20 15:31:38.794 +02:00 [WRN] No available products.
+2022-04-20 15:32:38.800 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:32:39.044 +02:00 [INF] Getting available products...
+2022-04-20 15:32:39.053 +02:00 [WRN] No available products.
+2022-04-20 15:33:39.065 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:33:39.305 +02:00 [INF] Getting available products...
+2022-04-20 15:33:39.313 +02:00 [WRN] No available products.
+2022-04-20 15:34:39.337 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:34:39.579 +02:00 [INF] Getting available products...
+2022-04-20 15:34:39.587 +02:00 [WRN] No available products.
+2022-04-20 15:35:39.594 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:35:39.866 +02:00 [INF] Getting available products...
+2022-04-20 15:35:39.875 +02:00 [WRN] No available products.
+2022-04-20 15:36:39.896 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:36:40.139 +02:00 [INF] Getting available products...
+2022-04-20 15:36:40.148 +02:00 [WRN] No available products.
+2022-04-20 15:37:40.163 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:37:40.434 +02:00 [INF] Getting available products...
+2022-04-20 15:37:40.442 +02:00 [WRN] No available products.
+2022-04-20 15:38:40.457 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:38:40.719 +02:00 [INF] Getting available products...
+2022-04-20 15:38:40.729 +02:00 [WRN] No available products.
+2022-04-20 15:39:40.732 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:39:40.976 +02:00 [INF] Getting available products...
+2022-04-20 15:39:40.981 +02:00 [WRN] No available products.
+2022-04-20 15:40:40.995 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:40:41.223 +02:00 [INF] Getting available products...
+2022-04-20 15:40:41.228 +02:00 [WRN] No available products.
+2022-04-20 15:41:41.238 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:41:41.490 +02:00 [INF] Getting available products...
+2022-04-20 15:41:41.509 +02:00 [WRN] No available products.
+2022-04-20 15:42:41.517 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:42:41.758 +02:00 [INF] Getting available products...
+2022-04-20 15:42:41.763 +02:00 [WRN] No available products.
+2022-04-20 15:43:41.784 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:43:42.029 +02:00 [INF] Getting available products...
+2022-04-20 15:43:42.035 +02:00 [WRN] No available products.
+2022-04-20 15:44:42.058 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:44:43.876 +02:00 [INF] Getting available products...
+2022-04-20 15:44:43.882 +02:00 [WRN] No available products.
+2022-04-20 15:45:43.899 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:45:44.142 +02:00 [INF] Getting available products...
+2022-04-20 15:45:44.148 +02:00 [WRN] No available products.
+2022-04-20 15:46:44.170 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:46:44.389 +02:00 [INF] Getting available products...
+2022-04-20 15:46:44.393 +02:00 [WRN] No available products.
+2022-04-20 15:47:44.417 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:47:44.649 +02:00 [INF] Getting available products...
+2022-04-20 15:47:44.657 +02:00 [WRN] No available products.
+2022-04-20 15:48:44.669 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:48:44.899 +02:00 [INF] Getting available products...
+2022-04-20 15:48:44.906 +02:00 [WRN] No available products.
+2022-04-20 15:49:44.911 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:49:45.155 +02:00 [INF] Getting available products...
+2022-04-20 15:49:45.164 +02:00 [WRN] No available products.
+2022-04-20 15:50:45.168 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:50:45.408 +02:00 [INF] Getting available products...
+2022-04-20 15:50:45.416 +02:00 [WRN] No available products.
+2022-04-20 15:51:45.426 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:51:45.678 +02:00 [INF] Getting available products...
+2022-04-20 15:51:45.687 +02:00 [WRN] No available products.
+2022-04-20 15:52:45.700 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:52:45.957 +02:00 [INF] Getting available products...
+2022-04-20 15:52:45.965 +02:00 [WRN] No available products.
+2022-04-20 15:53:45.970 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:53:46.199 +02:00 [INF] Getting available products...
+2022-04-20 15:53:46.207 +02:00 [WRN] No available products.
+2022-04-20 15:54:46.218 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:54:46.465 +02:00 [INF] Getting available products...
+2022-04-20 15:54:46.475 +02:00 [WRN] No available products.
+2022-04-20 15:55:46.487 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:55:46.721 +02:00 [INF] Getting available products...
+2022-04-20 15:55:46.730 +02:00 [WRN] No available products.
+2022-04-20 15:56:46.741 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:56:46.980 +02:00 [INF] Getting available products...
+2022-04-20 15:56:46.987 +02:00 [WRN] No available products.
+2022-04-20 15:57:47.003 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:57:47.240 +02:00 [INF] Getting available products...
+2022-04-20 15:57:47.251 +02:00 [WRN] No available products.
+2022-04-20 15:58:47.275 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:58:47.505 +02:00 [INF] Getting available products...
+2022-04-20 15:58:47.513 +02:00 [WRN] No available products.
+2022-04-20 15:59:47.530 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 15:59:47.799 +02:00 [INF] Getting available products...
+2022-04-20 15:59:47.807 +02:00 [WRN] No available products.
+2022-04-20 16:00:47.822 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:00:48.066 +02:00 [INF] Getting available products...
+2022-04-20 16:00:48.074 +02:00 [WRN] No available products.
+2022-04-20 16:01:48.081 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:01:48.349 +02:00 [INF] Getting available products...
+2022-04-20 16:01:48.357 +02:00 [WRN] No available products.
+2022-04-20 16:02:48.364 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:02:48.604 +02:00 [INF] Getting available products...
+2022-04-20 16:02:48.612 +02:00 [WRN] No available products.
+2022-04-20 16:03:48.616 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:03:48.851 +02:00 [INF] Getting available products...
+2022-04-20 16:03:48.859 +02:00 [WRN] No available products.
+2022-04-20 16:04:48.869 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:04:49.132 +02:00 [INF] Getting available products...
+2022-04-20 16:04:49.143 +02:00 [WRN] No available products.
+2022-04-20 16:05:49.149 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:05:49.407 +02:00 [INF] Getting available products...
+2022-04-20 16:05:49.416 +02:00 [WRN] No available products.
+2022-04-20 16:06:49.428 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:06:49.672 +02:00 [INF] Getting available products...
+2022-04-20 16:06:49.680 +02:00 [WRN] No available products.
+2022-04-20 16:07:49.683 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:07:49.947 +02:00 [INF] Getting available products...
+2022-04-20 16:07:49.955 +02:00 [WRN] No available products.
+2022-04-20 16:08:49.978 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:08:50.219 +02:00 [INF] Getting available products...
+2022-04-20 16:08:50.227 +02:00 [WRN] No available products.
+2022-04-20 16:09:50.237 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:09:50.468 +02:00 [INF] Getting available products...
+2022-04-20 16:09:50.478 +02:00 [WRN] No available products.
+2022-04-20 16:10:50.499 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:10:50.738 +02:00 [INF] Getting available products...
+2022-04-20 16:10:50.746 +02:00 [WRN] No available products.
+2022-04-20 16:11:50.754 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:11:51.014 +02:00 [INF] Getting available products...
+2022-04-20 16:11:51.022 +02:00 [WRN] No available products.
+2022-04-20 16:12:51.044 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:12:51.292 +02:00 [INF] Getting available products...
+2022-04-20 16:12:51.301 +02:00 [WRN] No available products.
+2022-04-20 16:13:51.304 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:13:51.598 +02:00 [INF] Getting available products...
+2022-04-20 16:13:51.607 +02:00 [WRN] No available products.
+2022-04-20 16:14:51.623 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:14:51.853 +02:00 [INF] Getting available products...
+2022-04-20 16:14:51.861 +02:00 [WRN] No available products.
+2022-04-20 16:15:51.874 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:15:52.100 +02:00 [INF] Getting available products...
+2022-04-20 16:15:52.108 +02:00 [WRN] No available products.
+2022-04-20 16:16:52.119 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:16:52.372 +02:00 [INF] Getting available products...
+2022-04-20 16:16:52.381 +02:00 [WRN] No available products.
+2022-04-20 16:17:52.396 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:17:52.645 +02:00 [INF] Getting available products...
+2022-04-20 16:17:52.652 +02:00 [WRN] No available products.
+2022-04-20 16:18:52.673 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:18:52.931 +02:00 [INF] Getting available products...
+2022-04-20 16:18:52.940 +02:00 [WRN] No available products.
+2022-04-20 16:19:52.960 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:19:53.211 +02:00 [INF] Getting available products...
+2022-04-20 16:19:53.221 +02:00 [WRN] No available products.
+2022-04-20 16:20:53.243 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:20:53.473 +02:00 [INF] Getting available products...
+2022-04-20 16:20:53.484 +02:00 [WRN] No available products.
+2022-04-20 16:21:53.489 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:21:53.724 +02:00 [INF] Getting available products...
+2022-04-20 16:21:53.735 +02:00 [WRN] No available products.
+2022-04-20 16:22:53.745 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:22:54.023 +02:00 [INF] Getting available products...
+2022-04-20 16:22:54.034 +02:00 [WRN] No available products.
+2022-04-20 16:23:54.053 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 16:23:54.305 +02:00 [INF] Getting available products...
+2022-04-20 16:23:54.315 +02:00 [WRN] No available products.
+2022-04-20 17:42:47.796 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 17:43:02.302 +02:00 [INF] Getting available products...
+2022-04-20 17:43:08.312 +02:00 [WRN] No available products.
+2022-04-20 17:43:26.680 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 17:43:31.330 +02:00 [ERR] Fatal error
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__LoadProductsNodesAsync|3>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 112
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 67
+2022-04-20 17:43:52.121 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 17:44:11.045 +02:00 [ERR] Fatal error
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__LoadProductsNodesAsync|3>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 112
+--- End of stack trace from previous location ---
+   at Program.<>c__DisplayClass0_0.<<<Main>$>g__MainLoopAsync|1>d.MoveNext() in C:\Projects\ekogroszek-git\App\Program.cs:line 67
+2022-04-20 17:44:19.194 +02:00 [INF] Downloading data from sklep.pgg.pl
+2022-04-20 17:44:35.853 +02:00 [INF] Getting available products...
+2022-04-20 17:44:35.869 +02:00 [INF] <<< ACTIVATING >>>
+2022-04-20 17:44:35.871 +02:00 [INF] /produkty/12/1/karolinka-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/6/6/pieklorz-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/8/1/karlik-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/1/19/karlik-ekogroszek-paleta-750-kg-30-workow-x-25-kg
+/produkty/9/1/retopal-ekogroszek-paleta-1000-kg-50-workow-x-20-kg
+/produkty/2/1/karlik-ekogroszek-big-bag-1000-kg-wegiel-luzem
+/produkty/5/1/greenpal-ekomial-big-bag-1000-kg-wegiel-luzem
+/produkty/13/6/pieklorz-ekogroszek-1000-kg-luz
+/produkty/14/1/karlik-ekogroszek-1000-kg-luz
+/produkty/21/13/retopal-ekogroszek-ziemowit-1000-kg-luz
+/produkty/24/14/retopal-ekogroszek-piast-1000-kg-luz
+/produkty/39/1/greenpal-ekomial-1000-kg-luz
+/produkty/15/12/kostka-marcel-1000-kg-luz
+/produkty/16/12/orzech-marcel-1000-kg-luz
+/produkty/17/12/groszek-marcel-1000-kg-luz
+/produkty/18/13/kostka-ziemowit-1000-kg-luz
+/produkty/19/13/orzech-i-ziemowit-1000-kg-luz
+/produkty/22/14/kostka-piast-1000-kg-luz
+/produkty/23/14/orzech-i-piast-1000-kg-luz
+/produkty/26/11/kostka-staszic-wujek-1000-kg-luz
+/produkty/27/11/orzech-i-staszic-wujek-1000-kg-luz
+/produkty/28/11/orzech-ii-staszic-wujek-1000-kg-luz
+/produkty/29/11/groszek-staszic-wujek-1000-kg-luz
+/produkty/30/10/orzech-i-myslowice-wesola-1000-kg-luz
+/produkty/31/10/orzech-ii-myslowice-wesola-1000-kg-luz
+/produkty/33/15/kostka-jankowice-1000-kg-luz
+/produkty/34/15/orzech-jankowice-1000-kg-luz
+/produkty/35/16/orzech-rydultowy-1000-kg-luz
+/produkty/37/8/orzech-sosnica-1000-kg-luz
+/produkty/38/8/groszek-sosnica-1000-kg-luz

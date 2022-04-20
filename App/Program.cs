@@ -1,4 +1,7 @@
-﻿using HtmlAgilityPack;
+﻿using Ekogroszek.Emails;
+using HtmlAgilityPack;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using RestSharp;
 using Serilog;
 
@@ -6,11 +9,12 @@ const string pggShopBaseUrl = "https://sklep.pgg.pl/";
 
 var adminNumbers = new List<string>
 {
-    "48509980548"
+    //"48509980548"
+    "michalorzechowski123@gmail.com"
 };
 var commonNumbers = new List<string>
 {
-    "48509338549"
+    //"48509338549"
 };
 var allNumbers = adminNumbers.Concat(commonNumbers);
 
@@ -20,6 +24,19 @@ using var logger = new LoggerConfiguration()
     .WriteTo.Console()
     .WriteTo.File("logs/ekogroszek.txt", rollingInterval: RollingInterval.Day)
     .CreateLogger();
+
+var builder = new ConfigurationBuilder()
+                .SetBasePath(Path.Combine(AppContext.BaseDirectory))
+                .AddJsonFile("appsettings.json", optional: true);
+
+var configuration = builder.Build();
+
+var serviceProvider = new ServiceCollection()
+           .AddTransient<IEmailService, EmailService>()
+           .Configure<EmailSettings>(configuration.GetSection(nameof(EmailSettings)))
+           .BuildServiceProvider();
+
+var emailService = serviceProvider.GetService<IEmailService>();
 
 
 
@@ -35,7 +52,7 @@ async Task HandleFatalErrorAsync(Exception ex)
 
     foreach (var number in adminNumbers)
     {
-        var response = await SendSmsAsync(number, "Sth went wrong! Search in log file.");
+        var response = await SendSmsAsync(number, "Ekogroszek - ERROR!", "Sth went wrong! Search in log file.");
     }
 
     await MainLoopAsync();
@@ -69,7 +86,7 @@ async Task MainLoopAsync()
 
             foreach (var number in allNumbers)
             {
-                var response = await SendSmsAsync(number, "Pojawil sie niezerowy stan w sklepie!");
+                var response = await SendSmsAsync(number, "Ekogroszek - NA STANIE!", "Pojawil sie niezerowy stan w sklepie!");
                 logger.Information(response.Content);
             }
 
@@ -113,20 +130,32 @@ IEnumerable<string> GetAvailableProductsUrls(IEnumerable<HtmlNode> availableProd
     return availableProductsUrls;
 }
 
-async Task<RestResponse> SendSmsAsync(string to, string message)
+async Task<RestResponse> SendSmsAsync(string to, string subject, string message)
 {
-    logger.Information($"Sending sms to {to}: {message}");
+    //logger.Information($"Sending sms to {to}: {message}");
 
-    var client = new RestClient("https://api.smsapi.pl/sms.do");
+    //var client = new RestClient("https://api.smsapi.pl/sms.do");
 
-    var request = new RestRequest();
-    request.AddHeader("Authorization", "Bearer zRi17DqtZUOx3xVdG9ehdeD0bPkon8ze7lCwxcTe");
-    request.AddQueryParameter("to", to);
-    request.AddQueryParameter("message", message);
-    request.AddQueryParameter("test", "0");
-    request.AddQueryParameter("format", "json");
+    //var request = new RestRequest();
+    //request.AddHeader("Authorization", "Bearer zRi17DqtZUOx3xVdG9ehdeD0bPkon8ze7lCwxcTe");
+    //request.AddQueryParameter("to", to);
+    //request.AddQueryParameter("message", message);
+    //request.AddQueryParameter("test", "0");
+    //request.AddQueryParameter("format", "json");
 
-    var response = await client.GetAsync(request);
+    //var response = await client.GetAsync(request);
 
-    return response;
+    //return response;
+
+    await emailService.SendAsync(new Microsoft.AspNet.Identity.IdentityMessage
+    {
+        Body = message,
+        Subject = subject,
+        Destination = to
+    });
+
+    return new RestResponse
+    {
+        Content = "OK"
+    };
 }
